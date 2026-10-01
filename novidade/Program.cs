@@ -81,6 +81,10 @@ namespace novidade
 
 
             Console.WriteLine("bosta");
+
+            Console.WriteLine("merda");
+        
+        
         }
 
 
