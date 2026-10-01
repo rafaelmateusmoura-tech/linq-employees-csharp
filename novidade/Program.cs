@@ -80,7 +80,7 @@ namespace novidade
 
 
 
-
+            Console.WriteLine("bosta");
         }
 
 
